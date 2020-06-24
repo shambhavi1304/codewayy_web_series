@@ -5,3 +5,13 @@ The purpose of this repository is to maintain the tasks in a chronological order
 
 ### Day-1
 As a beginning, the 'Day-1' task just consists of HTML code and some of the commonly used basic tags.
+
+### Day-2
+#### Purpose: To make a html page which should have the following:
+- All about you using h2 tag and paragraph tags. Not compulsory, you can use other tags too.
+- An image with an img tag.
+- All your favourite stuff as a list item.
+- Prepare a contact form using HTML which should have fields as name, email, mobile number, message.
+- Add a table which should contain your marks and grade.
+
+
