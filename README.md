@@ -1,6 +1,6 @@
 # codewayy_web_series
 
-## Purpose
+## Objective 
 The purpose of this repository is to maintain the tasks in a chronological order that are assigned to us by 'Codewayy' in the session of learning Web Development.
 
 ### Day-1
@@ -15,7 +15,7 @@ As a beginning, the 'Day-1' task just consists of HTML code and some of the comm
 - Add a table which should contain your marks and grade.
 
 ### Day-3
-### Purpose: To make an HTML page.
+#### Purpose: To make an HTML page.
 The web page should include all the types of tags that we have learned uptill now.
 
 
