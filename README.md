@@ -14,4 +14,8 @@ As a beginning, the 'Day-1' task just consists of HTML code and some of the comm
 - Prepare a contact form using HTML which should have fields as name, email, mobile number, message.
 - Add a table which should contain your marks and grade.
 
+### Day-3
+### Purpose: To make an HTML page.
+The web page should include all the types of tags that we have learned uptill now.
+
 
