@@ -1,5 +1,5 @@
+```diff
 # codewayy_web_series
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 
 ## Objective 
 The purpose of this repository is to maintain the tasks in a chronological order that are assigned to us by 'Codewayy' in the session of learning Web Development.
@@ -22,12 +22,12 @@ The web page should include all the types of tags that we have learned uptill no
 ### Day-4
 #### Purpose: To make a web page having both HTML and CSS.
 ###### Topics covered were as follows:
--What is CSS?
--Inline, external css, internal css
--Css font and size property
--Border property
--CSS comments
--Indentation in HTML
--Indentation in CSS
+- What is CSS?
+- Inline, external css, internal css
+- Css font and size property
+- Border property
+- CSS comments
+- Indentation in HTML
+- Indentation in CSS
 
 
