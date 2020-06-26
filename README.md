@@ -1,4 +1,3 @@
-```diff
 # codewayy_web_series
 
 ## Objective 
