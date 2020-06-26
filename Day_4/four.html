@@ -13,6 +13,21 @@
         a {
             text-color:blue;
         }
+        details>summary {
+            padding: 4px;
+            width: 200px;
+            background-color: #eeeeee;
+            border: none;
+            box-shadow: 1px 1px 2px #bbbbbb;
+            cursor: pointer;
+        }
+
+        details>p {
+            background-color: #eeeeee;
+            padding: 4px;
+            margin: 0;
+            box-shadow: 1px 1px 2px #bbbbbb;
+        }
 
         /* li {
             background-color: yellow;
@@ -117,8 +132,14 @@
         <br>
 
         <h2>More About Me</h2>
-        <!--<span style='font-size:100px;'>&#9660;</span>-->
-        <label for="child">My Childhood</label>
+
+        <!--Summary-->
+        <details>
+            <summary>My Childhood</summary>
+            <p><span>I grew up in Australia Obio. I lived near Lake Erie and I really miss the
+                sunsets over the water.</span></p>
+          </details>
+
         <!--<input type="list" name="child">-->
         <p><span>I grew up in Australia Obio. I lived near Lake Erie and I really miss the
                 sunsets over the water.</span></p>
