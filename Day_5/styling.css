@@ -1,0 +1,79 @@
+.button {
+    height: 40px;
+    width: 140px;
+    opacity: 0.6;
+    border-radius: 7px;
+    margin: 0px 85px;
+}
+
+/* Hover effect on the button */
+button:hover{
+    background-color: white;
+    opacity: 0.8;
+}
+
+.nav-img {
+    background-color: #cccccc;
+    background-size: cover;
+    background-image: url(images/coffee.webp);
+    height: 180px;
+}
+
+
+.op {
+    opacity: 1;
+    background-color: white;
+}
+op:hover{
+    color: white;
+}
+
+#h2 {
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.lbox {
+    width: 250px;
+    height: 500px;
+    background: #662200;
+    float: left;
+    margin-right: 20px;
+}
+
+#ul {
+    margin: 30px;
+}
+
+.img1 {
+    width: 180px;
+    height: 110px;
+    margin: 35px 35px 10px;
+    border: 2px wheat;
+}
+
+.img2 {
+    width: 180px;
+    height: 110px;
+    margin: 10px 35px;
+    border: 2px wheat
+}
+
+.txts {
+    margin-left: 20px;
+}
+
+/* Styling for anchor tags */
+a:link {
+    font-size: 15px;
+}
+
+a:visit {
+    color: blue;
+}
+
+a:hover {
+    font-size: 20px;
+}
+
