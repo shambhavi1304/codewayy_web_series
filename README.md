@@ -29,4 +29,15 @@ The web page should include all the types of tags that we have learned uptill no
 - Indentation in HTML
 - Indentation in CSS
 
+### Day-5
+##### Purpose: To study the material provided and design a web page as asked.
+###### Topics covered were as follows :
+- Use of class and id
+- Margin and padding in css
+- Float property in CSS
+- CSS box model
+- Pseudo classes in CSS
+- CSS display property
+- CSS background images
+
 
