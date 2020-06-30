@@ -1,4 +1,4 @@
-# codewayy_web_series
+#codewayy_web_series
 
 ## Objective 
 The purpose of this repository is to maintain the tasks in a chronological order that are assigned to us by 'Codewayy' in the session of learning Web Development.
