@@ -39,5 +39,10 @@ The web page should include all the types of tags that we have learned uptill no
 - Pseudo classes in CSS
 - CSS display property
 - CSS background images
-
+ 
+### Day-6
+##### Purpose: To design a web page as per a given template
+###### Instructions were as follows :
+- We are not allowed to use grid layout and flexbox stuffs right now with this page. 
+- Use the CSS rules as taught in the previous tutorial as the display property, padding and margin stuffs are enough to develop the layout of this page.
 
