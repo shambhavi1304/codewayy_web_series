@@ -1,0 +1,251 @@
+/*Styling the navigation bar*/
+
+.nav
+{
+    background-color:#00334d;
+    padding: 18px;
+}
+
+.element
+{
+    padding-left: 100px;
+}
+.ele
+{
+    float: right;
+    padding-right: 50px;
+}
+.navele
+{
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 10px;
+    display: inline;
+}
+.navele:hover {
+    background-color: white;
+    color: black;
+    opacity: 0.8;
+    padding: 10px;
+}
+
+.main
+{
+    float: left;
+}
+
+/*1st section */
+
+#oneleft
+{
+    padding: 50px;
+    margin: 0px 5px 5px 70px;
+    background-color:#00ace6;
+    width: 25%;
+}
+
+#oneleft #butone
+{
+    background-color: #99ddff;
+    border-width: 1px;
+    border-color: #0c388a;
+    padding: 10px;
+    margin: 10px 10px 10px 100px;
+    font-size: 8px;
+    align-content: center;
+}
+#oneleft #buttwo
+{
+    background-color: #99ddff;
+    border-width: 1px;
+    border-color: #0c388a;
+    padding: 10px;
+    margin: 10px;
+    font-size: 8px;
+    align-content: center;
+}
+#oneleft p
+{
+    font-size: 10px;
+    text-align: center;
+}
+#oneleft h3
+{
+    text-align: center;
+}
+
+#oneright
+{
+    background-image: url(Images/profilep.jpg);
+    alt: "Profile Picture";
+    background-position: bottom;
+    background-size: cover;
+    height: 230px;
+    width: 57%;
+    margin: 0px;
+}
+
+
+
+/* Section-2  */
+
+
+#two
+{
+    background-image: url(Images/clouds.jpg);
+    background-position: top;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    margin: 0px 70px 5px 70px;
+}
+
+#two p
+{
+    font-size: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+/*    styling the 3rd section    */
+
+#threeleft 
+{
+    background-color: #9999ff;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 0px 5px 5px 70px;
+    width: 570px;
+    height: 300px;
+}
+#threeleft p
+{
+    font-size: 10px;
+}
+
+#threeright
+{
+    background-color: #9999ff;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 70px 5px 5px;
+    width: 570px;
+    height: 300px;
+    float: right;
+}
+#threeright p
+{
+    font-size: 10px;
+}
+
+/* 4th section */
+
+#four
+{
+    background-color: #33ccff;
+    padding: 50px;
+    margin: 0px 70px 5px 70px;
+    text-align: center;
+    width: 1095px;
+}
+
+
+/* 5th section */
+
+
+.div-five
+{
+    background-color: #96B8ED;
+    text-align: center;
+    width: 22%;
+    height: 170px;
+    margin: 0px 5px 5px 5px;
+    
+}
+
+#five
+{
+    margin: 0px 5px 5px 70px;
+}
+
+
+
+/*    Recent Works: Section-6 */
+
+#six
+{
+    background-color: #0086b3;
+    padding: 50px;
+    margin: 0px 70px 5px 70px;
+    text-align: center;
+    width: 1095px;
+}
+
+
+/*    Section-7   */
+
+.div-seven
+{
+    background-color: #96B8ED;
+    text-align: center;
+    width: 22%;
+    height: 170px;
+    margin: 0px 5px 5px 5px;
+}
+#seven
+{
+    margin: 0px 5px 5px 70px;
+}
+.div-seven img
+{
+    padding-top: 10px;
+    height: 110px;
+    width: 160px;
+}
+
+/*   Section-8 (footer) */
+
+
+
+#fleft
+{
+    background-color: #00e6b8;
+    height: 400px;
+    width: 505px;
+    margin: 0px 5px 5px 70px;
+}
+#fright
+{
+    background-color: #00bfff;
+    padding: 20px;
+    width: 640px;
+    margin: 0px 70px 5px 0px;
+    float: right;
+}
+#fright h3
+{
+    text-align: center;
+}
+#fright button
+{   
+    font-size: 9px;
+    background-color:  #96B8ED;
+    border-width: 1px;
+    border-color: #6d7fa1;
+    padding: 11px;
+    margin: 30px;
+    width: 81%;
+}
+input
+{
+    width: 81%;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+form
+{
+    padding-left: 20px;
+}
