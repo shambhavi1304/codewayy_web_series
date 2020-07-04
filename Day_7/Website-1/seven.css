@@ -1,0 +1,113 @@
+/* Styling for phone size */
+* {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    width: 100%;
+}
+.img-banner {
+    display: none;
+}
+.img-me {
+    width: 100%;
+}
+.img-info {
+    width: 100%;
+}
+.img-info h2 {
+    padding: 30px 30px 20px;
+    font-family: arial;
+    font-size: 50px;
+    color: #111;
+    line-height: 44px;
+}
+.img-info p {
+    padding: 0px 30px 20px;
+    font-family: arial;
+    font-size: 16px;
+    color: #111;
+    line-height: 24px;
+}
+.fab {
+    color:green;
+    font-size: 25px;
+    margin-left: 170px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.fab:hover {
+    color: blue;
+    font-size: 25px;
+    margin-left: 170px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Styling for tablet size */
+@media only screen and (min-width:768px) {
+    .img-banner {
+        display: block;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .wrapper {
+        width: 600px;
+        margin: 0 auto;
+    }
+    .img-info h2 {
+        padding: 20px 0px 0px;
+    }
+    .img-info p {
+        padding: 20px 0px 0px;
+    }
+    .img-me {
+        padding-top: 30px;
+    }
+    .fab {
+        font-size: 30px;
+        margin-left: 350px;
+        padding-top: 15px;
+    }
+    .fab:hover {
+        font-size: 30px;
+        margin-left: 350px;
+        padding-top: 15px;
+    }
+    
+}
+
+/* Styling for desktop size */
+@media only screen and (min-width:1000px) {
+  
+    .wrapper {
+        width: 1000px;
+    }
+    .img-info {
+        width: 50%;
+        float: right;
+    }
+    .img-me {
+        padding-top: 0px;
+        width: 50%;
+        float:left;
+    }
+    .img-info h2 {
+        padding: 20px 0px 0px 30px;
+       
+    }
+    .img-info p {
+        padding: 20px 0px 0px 30px;
+    }
+    .fab {
+        font-size: 40px;
+        margin-left: 500px;
+        padding-top: 20px;
+    }
+    .fab:hover {
+        font-size: 50px;
+        margin-left: 500px;
+        padding-top: 20px;
+    }
+    
+}
