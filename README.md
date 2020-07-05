@@ -47,3 +47,14 @@ The web page should include all the types of tags that we have learned uptill no
 - We are not allowed to use grid layout and flexbox stuffs right now with this page. 
 - Use the CSS rules as taught in the previous tutorial as the display property, padding and margin stuffs are enough to develop the layout of this page.
 
+### Day-7
+##### Purpose: Once we have completed the tutorial share the website we have made.
+##### Instructions: Make sure your page should have semantic tags as required, head tags should be there, also please take care of the indentation.
+
+###### Topics covered were as follows :
+- Making use of icons in pages
+- CSS position
+- What is meant by responsive design?
+- What is media query 
+- Building responsive website
+
